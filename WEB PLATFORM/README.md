@@ -78,5 +78,4 @@ Vraća zadnji spremljeni rezultat.
 }
 ```
 
-## 🔧 ESP32 Postavljanje
 
